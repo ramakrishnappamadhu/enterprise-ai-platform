@@ -1,0 +1,4 @@
+Responsible AI requires fairness and transparency.
+Model explainability is critical for regulatory audits.
+Guardrails prevent unsafe AI responses.
+Audit logging ensures traceability of model decisions.

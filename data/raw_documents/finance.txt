@@ -1,0 +1,4 @@
+Financial institutions rely on machine learning to detect fraud.
+Risk scoring models analyze transaction behavior.
+Real-time pipelines help prevent fraudulent activities.
+Credit risk models evaluate customer financial stability.
